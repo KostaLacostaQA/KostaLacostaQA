@@ -17,3 +17,12 @@
 <img src="https://user-images.githubusercontent.com/112799254/230769535-18425c81-2477-4546-a595-fa90e862b54d.svg" height="30"/>
 <img src="https://user-images.githubusercontent.com/112799254/230769551-23f46546-e671-4924-a85e-5f312d7ece45.png" height="30"/>
 </div>
+
+
+
+**Мои сертификаты за обучение:**
+
+- [Ручное тестирование](https://github.com/KostaLacostaQA/KostaLacostaQA/blob/main/certifitat/manual.pdf)
+- [Работа с GIT](https://github.com/KostaLacostaQA/KostaLacostaQA/blob/main/certifitat/git.pdf)
+- [Java](https://github.com/KostaLacostaQA/KostaLacostaQA/blob/main/certifitat/java.pdf)
+- [Автоматизация на java](https://github.com/KostaLacostaQA/KostaLacostaQA/blob/main/certifitat/automatic.pdf)
