@@ -20,7 +20,7 @@
 
 
 
-**Мои сертификаты за обучение:**
+### Мои сертификаты за обучение:
 
 - [Ручное тестирование](https://github.com/KostaLacostaQA/KostaLacostaQA/blob/main/certifitat/manual.pdf)
 - [Работа с GIT](https://github.com/KostaLacostaQA/KostaLacostaQA/blob/main/certifitat/git.pdf)
