@@ -34,4 +34,5 @@
 <div>
 <a href="https://t.me/kostadrug"><img src="https://user-images.githubusercontent.com/112799254/230774191-48d5da76-85a0-417c-a186-cd0031778ab9.png" height="30"/>
 <a href="mailto:dukov423@mail.ru"><img src="https://user-images.githubusercontent.com/112799254/230774247-cb01275c-e12b-4ace-8955-bf3e41683ae9.png" height="30"/> 
+<a href="https://www.linkedin.com/in/kostalacostaqa/"><img src="https://user-images.githubusercontent.com/112799254/230897617-ade3205b-c1c9-4c92-a9aa-ac171398917f.png" height="30"/> 
 </div>
